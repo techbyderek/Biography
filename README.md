@@ -11,11 +11,12 @@
 ### 👨‍💻 Full Stack Programming
 
 **Frontend:**
-- 🧭 HTML, CSS, JavaScript & React *(currently learning)*
+- 🧭 HTML, CSS, JavaScript *(currently learning - most skilled)*
+- 🧭React *(currently learning)*
 
 **Backend:**
 - ☁️ Node.js, Express.js & Rest APIs *(currently learning)*
-- 🥏 C++ & Python *(basic knowledge)*
+- 🥏 C++ & Python *(basic knowledge - on  my own)*
 
 **Batabase:**
 - 📈 MongoDB *(currently learning)*
@@ -50,3 +51,5 @@
 - 📹 **Social media:** https://linktr.ee/techbyderek 
 - 📧 **Email:** [techbyderek@outlook.com](mailto:techbyderek@outlook.com)
 - 🌐 **Personal portfolio:** *coming soon...*
+
+*updated 10/9/2025*
