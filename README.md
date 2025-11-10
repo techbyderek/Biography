@@ -2,6 +2,7 @@
 
 🎓 *Student at UNC Charlotte*  
 🎯 *Computer Science - Gaming Concentration, AI & Robotics B.S.*
+
 📚 *Graduated from a Full Stack Web Developer Bootcamp*
 
 ---
