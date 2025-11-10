@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Derek
 
 🎓 *Student at UNC Charlotte*  
-🎯 *Computer Science - Gaming Concentration, AI & Robotics B.S.*
+🎯 *Computer Science, B.S. — Concentration in Game Development, AI & Robotics*
 
 📚 *Graduated from a Full Stack Web Developer Bootcamp*
 
@@ -15,13 +15,13 @@
 - **Command Line Interface (CLI)** — Navigation, builds, Git
 
 ### 👨‍💻 Programming Languages (Active Learning)
-- **C++** — Primary focus (systems programming, OOP, memory management etc)
-- **Python** — Secondary focus (AI, Machine learning etc)
+- **C++** — Primary focus (gameplay systems, OOP, Unreal Engine)
+- **Python** — Secondary focus (AI, scripting, tools)
 
 ### 🎮 Game Development (Active Learning)
-- **Unreal Engine 5** — C++ programming
-- **Game Engine Architecture** — ECS patterns, game loops
-- **Graphics Programming** — OpenGL, rendering fundamentals
+- **Unreal Engine 5** — C++ gameplay programming, Blueprints
+- **Gameplay Systems** — Character controllers, AI, mechanics
+- **Game Architecture** — Design patterns, game loops
 
 ### 🌐 Web Development (Bootcamp Background)
 - **Frontend:** HTML, CSS, JavaScript, React
@@ -30,20 +30,20 @@
 - **Methodologies:** Agile (Scrum, Kanban)
 
 ### 📰 Certifications
-- CompTIA A+ V15
+- CompTIA A+ v15
 - Google IT Support
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Aspiring Gameplay Programmer
 
-Building game engines and low-level systems in C++. Specializing in engine programming with experience in full-stack development.
+Transitioning from web development into gameplay programming with a focus on C++ and Unreal Engine. Goal: Land a gameplay programming job at a game studio.
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Projects (C++ & Gameplay)
 
-* *COMING SOON* *
+*COMING SOON*
 
 ---
 
@@ -55,6 +55,4 @@ Building game engines and low-level systems in C++. Specializing in engine progr
 
 ---
 
-*Aspiring gaming/engine programmer | Building games and the tech that powers them*
-
-*updated 11/10/2025*
+*Building games and bringing gameplay to life*
