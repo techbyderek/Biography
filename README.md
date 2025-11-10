@@ -1,55 +1,59 @@
 # 👋 Hi! I'm Derek
 
-🎓 *Future student at UNC Charlotte — Fall 2026*  
-🎯 *Computer Science, B.S. — Concentration in AI, Robotics, and Game Development*
-📚 *Currently enrolled in a Full Stack Web Development Bootcamp*
+🎓 *Student at UNC Charlotte*  
+🎯 *Computer Science - Gaming Concentration, AI & Robotics B.S.*
+📚 *Graduated from a Full Stack Web Developer Bootcamp*
 
 ---
 
-## 🔧 Skills in Progress
+## 🔧 Skills
 
-### 👨‍💻 Full Stack Programming
+### 💻 What I Use Daily
+- **Git & GitHub** — Version control
+- **Visual Studio** — Development
+- **Command Line Interface (CLI)** — Navigation, builds, Git
 
-**Frontend:**
-- 🧭 HTML, CSS, JavaScript *(currently learning - most skilled)*
-- 🧭React *(currently learning)*
+### 👨‍💻 Programming Languages (Active Learning)
+- **C++** — Primary focus (systems programming, OOP, memory management etc)
+- **Python** — Secondary focus (AI, Machine learning etc)
 
-**Backend:**
-- ☁️ Node.js, Express.js & Rest APIs *(currently learning)*
-- 🥏 C++ & Python *(basic knowledge - on  my own)*
+### 🎮 Game Development (Active Learning)
+- **Unreal Engine 5** — C++ programming
+- **Game Engine Architecture** — ECS patterns, game loops
+- **Graphics Programming** — OpenGL, rendering fundamentals
 
-**Batabase:**
-- 📈 MongoDB *(currently learning)*
+### 🌐 Web Development (Bootcamp Background)
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB
+- **Methodologies:** Agile (Scrum, Kanban)
 
 ### 📰 Certifications
-- Google IT Support (2024)
-- CompTIA A+ *(coming soon...2025)*
-- AWS Cloud Practitioner *(coming soon...2026)*
-
-
-### 🔄 Tools
-- Git & GitHub for version control
-- Gitlab
-- Visual Studio Code 
-- Command Line Interface (CLI)  
-- Agile methodologies (Scrum, Kanban)  
-- Testing and debugging techniques
-
-## 🎮 Hobby
-
-- Learning Unreal Engine 5 to create my first video game *(Blueprints + C++)*
+- CompTIA A+ V15
+- Google IT Support
 
 ---
 
-## 🛠️ Projects in Progress
-- 🎯 First video game in Unreal Engine 5 
-- 💻 Bootcamp projects in full stack development *(coming soon)*
+## 🚀 Current Focus
+
+Building game engines and low-level systems in C++. Specializing in engine programming with experience in full-stack development.
+
+---
+
+## 🛠️ Projects
+
+* *COMING SOON* *
 
 ---
 
 ## 📫 Contact Me
+
 - 📹 **Social media:** https://linktr.ee/techbyderek 
 - 📧 **Email:** [techbyderek@outlook.com](mailto:techbyderek@outlook.com)
-- 🌐 **Personal portfolio:** *coming soon...*
+- 🌐 **GitHub:** github.com/techbyderek
 
-*updated 10/9/2025*
+---
+
+*Aspiring gaming/engine programmer | Building games and the tech that powers them*
+
+*updated 11/10/2025*
