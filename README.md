@@ -30,7 +30,6 @@
 - **Methodologies:** Agile (Scrum, Kanban)
 
 ### 📰 Certifications
-- CompTIA A+ v15
 - Google IT Support
 
 ---
@@ -51,7 +50,6 @@ Transitioning from web development into gameplay programming with a focus on C++
 
 - 📹 **Social media:** https://linktr.ee/techbyderek 
 - 📧 **Email:** [techbyderek@outlook.com](mailto:techbyderek@outlook.com)
-- 🌐 **GitHub:** github.com/techbyderek
 
 ---
 
