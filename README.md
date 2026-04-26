@@ -1,56 +1,50 @@
-# 👋 Hi! I'm Derek
+# 👋 Hi, I'm Derek Rolon
 
-🎓 *Student at UNC Charlotte*  
-🎯 *Computer Science, B.S. — Concentration in Game Development, AI & Robotics*
-
-📚 *Graduated from a Full Stack Web Developer Bootcamp*
+🎮 *Game Developer & Founder of Devko Studios LLC*
+🎓 *Bachelor's Degree in Game Development — Grand Canyon University*
 
 ---
 
 ## 🔧 Skills
 
-### 💻 What I Use Daily
-- **Git & GitHub** — Version control
-- **Visual Studio** — Development
-- **Command Line Interface (CLI)** — Navigation, builds, Git
-
-### 👨‍💻 Programming Languages (Active Learning)
+### 👨‍💻 Main Programming Language
 - **C++** — Primary focus (gameplay systems, OOP, Unreal Engine)
-- **Python** — Secondary focus (AI, scripting, tools)
 
-### 🎮 Game Development (Active Learning)
+### 🎮 Game Development
 - **Unreal Engine 5** — C++ gameplay programming, Blueprints
 - **Gameplay Systems** — Character controllers, AI, mechanics
 - **Game Architecture** — Design patterns, game loops
 
-### 🌐 Web Development (Bootcamp Background)
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MongoDB
-- **Methodologies:** Agile (Scrum, Kanban)
+### 🌐 Background
+- Full-Stack Web Development — React, Node.js, MongoDB, REST APIs
+
+### 💻 Tools
+- **Git & GitHub** — Version control
+- **Visual Studio** — Development environment
+- **CLI** — Navigation, builds, Git
 
 ### 📰 Certifications
+- Udemys Unreal Engine 5 C++: Advanced Frontend UI Programming
+- Udemys Unreal Engine 5 C++ Game Development
+- Udemys Unreal Engine 5 Blueprints Course
 - Google IT Support
 
 ---
 
-## 🚀 Aspiring Gameplay Programmer
-
-Transitioning from web development into gameplay programming with a focus on C++ and Unreal Engine. Goal: Land a gameplay programming job at a game studio.
-
----
-
-## 🛠️ Projects (C++ & Gameplay)
-
-*COMING SOON*
+## 🚀 About Me
+Gameplay programmer focused on building the systems, mechanics, and AI behavior that make games worth playing. Founder of Devko Studios LLC, a registered game studio based in North Carolina, currently in pre-production on our debut title built in Unreal Engine 5.
 
 ---
 
-## 📫 Contact Me
-
-- 📹 **Social media:** https://linktr.ee/techbyderek 
-- 📧 **Email:** [techbyderek@outlook.com](mailto:techbyderek@outlook.com)
+## 🛠️ Projects
+*Coming soon*
 
 ---
 
-*Building games and bringing gameplay to life*
+## 📫 Contact
+- 🔗 **Links:** https://linktr.ee/techbyderek
+- 📧 **Email:** techbyderek@outlook.com
+
+---
+
+*Building games. Building studios. Building something that lasts.*
