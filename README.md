@@ -32,11 +32,6 @@
 
 ---
 
-## 🚀 About Me
-Gameplay programmer focused on building the systems, mechanics, and AI behavior that make games worth playing. Founder of Devko Studios LLC, a registered game studio based in North Carolina, currently in pre-production on our debut title built in Unreal Engine 5.
-
----
-
 ## 🛠️ Projects
 *Click "Repositories" to see all my projects*
 
@@ -45,6 +40,8 @@ Gameplay programmer focused on building the systems, mechanics, and AI behavior 
 ## 📫 Contact
 - 🔗 **Links:** https://linktr.ee/techbyderek
 - 📧 **Email:** techbyderek@outlook.com
+- 🔗 **Devko links:** https://linktr.ee/devkostudios
+- 📧 **Devko Email:** contact@devkostudios.com
 
 ---
 
