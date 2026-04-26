@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Derek Rolon
 
 🎮 *Game Developer & Founder of Devko Studios LLC*
+
 🎓 *Bachelor's Degree in Game Development — Grand Canyon University*
 
 ---
