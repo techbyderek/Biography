@@ -38,7 +38,7 @@ Gameplay programmer focused on building the systems, mechanics, and AI behavior 
 ---
 
 ## 🛠️ Projects
-*Coming soon*
+*Click "Repositories"to see all my projects*
 
 ---
 
