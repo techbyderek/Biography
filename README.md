@@ -2,7 +2,7 @@
 
 🎮 *Game Developer & Founder of Devko Studios LLC*
 
-🎓 *Persuing a Bachelor's Degree in Game Development — Grand Canyon University*
+🎓 *Persuing a Bachelor's Degree in Game Development*
 
 ---
 
